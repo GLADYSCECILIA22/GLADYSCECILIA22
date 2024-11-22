@@ -42,5 +42,6 @@ dobet = function(){
 
  makebet(nextbet, chance, "identifier01")
  makebet(nextbet, chance, "identifier02")
- makebet(nextbet, chance, "identifier03")
+ makebet(nextbet, chance, "identifier03")game = "roulette"
+chips = [{"value": "number0", "amount": 0.001},{"value": "colorBlack", "amount": 0.001}]
 }
